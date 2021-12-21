@@ -1,0 +1,21 @@
+esq :wq ou crtl+C
+Abrir no bash
+	vi  nome do arquivo
+----------------------------------------------------------------
+configurando uma SSH no Git
+----------------------------------------------------------------	
+Gerar uma chave 
+	- ssh-keygen -t rsa -b 4096 -C "emerson.gomes.tec@gmail.com"
+	-O e-mail tem que ser o sue do GIT
+Acessar a pasta da chave 
+	- cd ~/.ssh/
+Pegar a chave
+	- cat id_rsa.pub
+	-ou more id_rsa.pub
+----------------------------------------------------------------	
+Comando GIT básicos
+----------------------------------------------------------------
+Inicia um repositório - git init
+Prepara um comite - git add .
+Cria um novo comite - git commit -m "first commit"
+Subindo o comite na master - git push -u origin master

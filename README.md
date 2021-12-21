@@ -1,5 +1,5 @@
 # Desafio de projeto github DIO - Let's go
-Repositório criado paraodesafio de Projeto
+Repositório criado para o desafio de Projeto
 
 
 ##Links Uteis

@@ -1,5 +1,5 @@
-# dio-desafio-github-primeirorepositorio
-Desafio de projeto github DIO - Let's go
+# Desafio de projeto github DIO - Let's go
+Repositório criado paraodesafio de Projeto
 
 
 ##Links Uteis

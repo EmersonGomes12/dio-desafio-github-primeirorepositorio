@@ -18,4 +18,4 @@ Comando GIT básicos
 Inicia um repositório - git init
 Prepara um comite - git add .
 Cria um novo comite - git commit -m "first commit"
-Subindo o comite na master - git push -u origin master
+Subindo o comite na master - git push origin main

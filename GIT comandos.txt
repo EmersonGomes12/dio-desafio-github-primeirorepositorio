@@ -15,7 +15,13 @@ Pegar a chave
 ----------------------------------------------------------------	
 Comando GIT básicos
 ----------------------------------------------------------------
+Vendo as versão do GIT - git --version
+Vendo as configurações - git config --list
+Colocando seu nome - git config --global user.name "Emerson Gomes"
+
 Inicia um repositório - git init
 Prepara um comite - git add .
 Cria um novo comite - git commit -m "first commit"
 Subindo o comite na master - git push origin main
+
+

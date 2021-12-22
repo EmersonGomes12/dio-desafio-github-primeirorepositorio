@@ -1,5 +1,15 @@
-#Design Patterns (Souluções já encontradas)
+------------------------------------------------------------------------------------- 
+Atalhos Java
+------------------------------------------------------------------------------------- 
+Troca de perspectiva -> Ctrl+3
+Criando o metodo main -> main - Pressiona Ctrl+space
+Mudar de lugar -> Seleciona o contéudo Alt+seta para cima
+Identação -> Ctrl+shift+f
+Importando uma classe -> Ctrl+shift+o
 
+------------------------------------------------------------------------------------- 
+#Design Patterns (Souluções já encontradas)
+------------------------------------------------------------------------------------- 
 * Single Responsability Principle
  - Uma clase deve ter um e somente um motivo para mudar.
  - A classe deve possuir uma única responsabilidade dentro do software.
